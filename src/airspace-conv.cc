@@ -28,6 +28,7 @@
 #include <string.h>
 #include <errno.h>
 #include <getopt.h>
+#include <unistd.h>
 
 using std::cout;
 using std::cerr;

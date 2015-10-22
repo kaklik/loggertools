@@ -142,11 +142,9 @@ static const angle_class
 parse_angle(char *&src)
 {
     int degrees, minutes, seconds;
-    int sign = 1;
 
     degrees = atoi(next_word(src));
     if (degrees < 0) {
-        sign = -1;
         degrees = -degrees;
     }
 

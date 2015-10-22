@@ -21,6 +21,7 @@
 #define __FILSER_H
 
 #include <stdint.h>
+#include <sys/types.h>
 
 struct filser_turn_point {
     char valid;
