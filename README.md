@@ -1,7 +1,7 @@
 loggertools README
 ==================
 
-$Id$
+This repository is a fork of Max Kellermann's original code http://max.kellermann.name/projects/loggertools/
 
 
 What is loggertools?
@@ -26,7 +26,7 @@ Then download and compile the source code.
 
 Now we have all binnaries prepared in the ./bin directory. There we should run it directly. For example: 
 
-    $ ./zander -h
+    ~/loggertools/bin/$ ./zander -h
     
     usage: zandertool [OPTIONS] COMMAND [ARGUMENTS]
     valid options:
