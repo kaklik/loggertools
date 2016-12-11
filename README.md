@@ -52,7 +52,7 @@ Now we have all binnaries prepared in the ./bin directory. There we should run i
 
 For installation to the system path run following command. 
 
-    sudo makeinstall
+    sudo make install
 
 Documentation
 ------------
